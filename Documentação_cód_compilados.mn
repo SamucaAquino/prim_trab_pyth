@@ -1,4 +1,10 @@
 # prim_trab_pyth
+ODOCUMENTAÇÃO CÓDIGO: CONTRA_CHECKY.PY
+O script se trata de um contra cheque, onde o usuário informa o valor do salário-hora e a quantidade de horas trabalhadas. Ao decorrer do programa, ele calcula os descontos (ir,inss,sindicato) e informa o total de descontos e o valor do salário líquido.
+
+DOCUMENTAÇÃO CÓDIGO: IMPAR_PÁ.PY
+O programa se trata de uma informação sobre o número digitado pelo usuário. Levando em consideração o número digitado pelo usuário, o programa informa se tal número é ímpar ou par.
+
 DOCUMENTAÇÃO CÓDIGO: INT_DECIM.PY
 O programa se trata de uma informação sobre o número digitado pelo usuário. Levando em consideração o número digitado pelo usuário, o programa informa se tal número é inteiro ou decimal.
 
